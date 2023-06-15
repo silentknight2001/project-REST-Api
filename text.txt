@@ -1,0 +1,29 @@
+.....package we are usiging here...........
+
+
+=> express -> as backend framwork;
+=> body-parser -> for process to requiest body;
+=> bcrypt -> for password encryption;
+=> Cors -> for cros origin requiest;
+=> dotenv -> for environment variable; 
+=> gridfs-stream -> for file uploading;
+=> multer and multer-gridfs-storage -> for upload file locally;
+=> helmet -> for request safty;
+=> morgan -> for login;
+=> jsonwebtoken -> for authentication;
+=> mongoose -> for mongodb access
+
+all about backend 
+
+
+
+for the front endpoint
+
+=> react-redux @reduxjs/toolkit -> for state management
+=> redux-persist -> for use aour local storage for like presist some jwt tokn and password and many thing
+=> react-dropzone -> for uploading file that we can store in backend
+=> dotenv -> for envornment variable 
+=> formik -> for handeling forms in easy way
+=> yup -> for validation our data
+=> react-router-dom@6 -> for different routs and different pages
+=> @mui/material @emotion/react @emotion/styled @mui/icons-material -> for use thiss UI framwork for icon, style, component etc 
